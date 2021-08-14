@@ -28,7 +28,7 @@ static void InitializeFlipper(UIApplication *application) {
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-  [GMSServices provideAPIKey:@"AIzaSyDi8hkOhL2peccz5LCoembe6pWdhiZjt_Y"];
+  [GMSServices provideAPIKey:@"your_url_key"];
 #ifdef FB_SONARKIT_ENABLED
   InitializeFlipper(application);
 #endif
