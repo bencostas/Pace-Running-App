@@ -1,3 +1,3 @@
 # Pace-Running-App
 
-Running App designed using React Native and Figma
+This is a mobile app I designed using React Native and Figma. It is a simple running app that can store and delete your runs using AsyncStorage.
